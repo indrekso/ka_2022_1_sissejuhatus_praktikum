@@ -3,6 +3,6 @@
 .RData
 .Ruserdata
 data/*.dta
-*.html
+*lahendused.html
 ka_2022_1_sissejuhatus_praktikum.R
 *.Rmd
